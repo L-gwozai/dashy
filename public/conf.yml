@@ -12,6 +12,7 @@ pageInfo:
 # Optional app settings and configuration
 appConfig:
   theme: colorful
+  lang: zh-CN
 
 # Main content - An array of sections, each containing an array of items
 sections:
@@ -43,5 +44,9 @@ sections:
   - title: Support
     description: Get help with Dashy, raise a bug, or get in contact
     url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
+    icon: far fa-hands-helping
+  - title: gwozai
+    description: gwozai的博客, raise a bug, or get in contact
+    url: http://gwozai.com
     icon: far fa-hands-helping
   
